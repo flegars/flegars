@@ -11,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/le gars florian" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="le gars florian" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/le gars florian](https://www.linkedin.com/in/florian-le-gars-73a106141/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="le gars florian" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
