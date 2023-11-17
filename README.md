@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flegars&label=Profile%20views&color=0e75b6&style=flat" alt="flegars" /> </p>
 
 - 🔭 I’m currently working on **a very secret project**
-- 🌱 I’m currently learning **Go**
+- 🌱 I’m currently learning **Go** through <a href="https://github.com/flegars/gin-bookstore">flegars/gin-bookstore</a>.
 
 <h3 align="left">Languages and Tools:</h3>
 <h4 align="left">Tools</h4>
