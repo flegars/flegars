@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Florian</h1>
 <h3 align="center">A PHP Developer</h3>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=flegars)](https://github.com/anuraghazra/github-readme-stats)
+[![flegars's GitHub stats](https://github-readme-stats.vercel.app/api?username=flegars&theme=tokyonight&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flegars&label=Profile%20views&color=0e75b6&style=flat" alt="flegars" /> </p>
 
