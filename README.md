@@ -5,6 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flegars&label=Profile%20views&color=0e75b6&style=flat" alt="flegars" /> </p>
 
+- 📰 I tried <a href="https://flegars.github.io">something</a>
 - 🔭 I’m currently working on **a very secret project**
 - 🌱 I’m currently learning **Go** through <a href="https://github.com/flegars/gin-bookstore">flegars/gin-bookstore</a>.
 
