@@ -1,16 +1,15 @@
-<h1 align="center">Hi 👋, I'm Florian</h1>
-<h3 align="center">A PHP Developer</h3>
+# Hi 👋, I'm Florian, A 🐘 Developer
 
 [![flegars's GitHub stats](https://github-readme-stats.vercel.app/api?username=flegars&theme=tokyonight&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flegars&label=Profile%20views&color=0e75b6&style=flat" alt="flegars" /> </p>
 
-- 🔭 I’m currently working on **a very secret project**
-- 🌱 I’m currently learning **Go** through <a href="https://github.com/flegars/gin-bookstore">flegars/gin-bookstore</a>.
+* 🔭 I’m currently working on **a very secret project**
+* 🌱 I’m currently learning **Go** through <a href="https://github.com/flegars/gin-bookstore">flegars/gin-bookstore</a>.
 
-<h4 align="left">📰 Last articles :</h4>
-- <a href="https://flegars.github.io/jekyll/update/2023/11/22/how-to-use-mailjet-templates-with-symfony-mailer.html">How to use mailjet template with symfony mailer</a>
-- More to come ...
+## 📰 Last articles :
+* <a href="https://flegars.github.io/jekyll/update/2023/11/22/how-to-use-mailjet-templates-with-symfony-mailer.html">How to use mailjet template with symfony mailer</a><br />
+* More to come ...
 
 <h4 align="left">Backend techs</h4>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
