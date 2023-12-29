@@ -10,6 +10,7 @@
 
 <h4 align="left">📰 Last articles :</h4>
 - <a href="https://flegars.github.io/jekyll/update/2023/11/22/how-to-use-mailjet-templates-with-symfony-mailer.html">How to use mailjet template with symfony mailer</a>
+- More to come ...
 
 <h4 align="left">Backend techs</h4>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
