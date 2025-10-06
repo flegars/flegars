@@ -2,8 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=flegars&label=Profile%20views&color=0e75b6&style=flat" alt="flegars" /> </p>
 
-* 🌱 I’m currently learning **Go** through <a href="https://github.com/flegars/gin-bookstore">flegars/gin-bookstore</a>.
-
  <a href="https://flegars.github.io/jekyll/update/2023/11/22/how-to-use-mailjet-templates-with-symfony-mailer.html">How to use mailjet templates with symfony mailer</a>
 
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
