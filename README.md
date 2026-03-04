@@ -20,7 +20,7 @@ final class FlorianLeGars
     public function __construct(
         public readonly string $role = 'Full-Stack Web Developer',
         public readonly string $location = 'Paris, France',
-        public readonly string $company = 'Elvest (ex Inter Invest Group)',
+        public readonly string $company = 'Inter Invest Group',
         public readonly string $sideProject = 'https://orygami.fr',
         public readonly array $languages = ['PHP', 'TypeScript', 'Python', 'Go'],
         public readonly string $funFact = 'I debug with dump() and I am not ashamed',
@@ -30,14 +30,18 @@ final class FlorianLeGars
 
 ---
 
-### Currently Working On
+```console
+$ ./currently-working-on.sh
+```
 
 - Building **[Orygami](https://orygami.fr)**, a web design agency creating custom websites for SMBs
-- Crafting Symfony applications at **Elvest** (ex Inter Invest Group)
+- Crafting Symfony applications at **Inter Invest Group**
 
 ---
 
-### Tech Stack
+```console
+$ cat tech-stack.md
+```
 
 **Backend**
 
@@ -63,7 +67,9 @@ final class FlorianLeGars
 
 ---
 
-### Open Source Contributions
+```console
+$ git log --contributions
+```
 
 | Project | Contribution | Date |
 |---------|-------------|------|
@@ -73,7 +79,9 @@ final class FlorianLeGars
 
 ---
 
-### Blog Posts
+```console
+$ curl blog.api/posts
+```
 
 - [How to use Mailjet templates with Symfony Mailer](https://flegars.github.io/jekyll/update/2023/11/22/how-to-use-mailjet-templates-with-symfony-mailer.html)
 
@@ -82,7 +90,9 @@ final class FlorianLeGars
 
 ---
 
-### GitHub Stats
+```console
+$ htop --github-stats
+```
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=flegars&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
