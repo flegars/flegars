@@ -92,12 +92,3 @@ final class FlorianLeGars
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=flegars&theme=tokyonight" alt="Profile Details" />
 </p>
 
----
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=flegars&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
