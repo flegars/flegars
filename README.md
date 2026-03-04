@@ -85,16 +85,11 @@ final class FlorianLeGars
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=flegars&show_icons=true&hide_border=true&theme=tokyonight" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=flegars&layout=compact&hide_border=true&theme=tokyonight" height="165" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=flegars&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=flegars&hide_border=true&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=flegars&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=flegars&theme=tokyonight" alt="Profile Details" />
 </p>
 
 ---
