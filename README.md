@@ -34,7 +34,7 @@ final class FlorianLeGars
 $ ./currently-working-on.sh
 ```
 
-- Building **[Orygami](https://www.orygami.fr)**, a web design agency creating custom websites for SMBs
+- Building **<a href="https://www.orygami.fr" target="_blank">Orygami</a>**, a web design agency creating custom websites for SMBs
 - Crafting Symfony applications at **Inter Invest Group**
 
 ---
