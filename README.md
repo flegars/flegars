@@ -1,9 +1,8 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Florian+LE+GARS+%F0%9F%91%8B;Web+Developer+%7C+Symfony+Enthusiast;Founder+%40+Orygami.fr" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Florian+LE+GARS+%F0%9F%91%8B;Web+Developer+%7C+Symfony+Enthusiast" alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <a href="https://orygami.fr"><img src="https://img.shields.io/badge/%F0%9F%9A%80_Founder-Orygami.fr-ff6f00?style=flat-square" alt="Orygami" /></a>
   <img src="https://img.shields.io/badge/%F0%9F%93%8D_Paris,_France-0e75b6?style=flat-square" alt="Location" />
   <a href="https://flegars.github.io"><img src="https://img.shields.io/badge/%F0%9F%93%9D_Blog-flegars.github.io-orange?style=flat-square" alt="Blog" /></a>
   <img src="https://img.shields.io/badge/OS-macOS-999999?style=flat-square&logo=apple&logoColor=white" alt="macOS" />
