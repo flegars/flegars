@@ -19,7 +19,7 @@ final class FlorianLeGars
     public function __construct(
         public readonly string $role = 'Full-Stack Web Developer',
         public readonly string $location = 'Paris, France',
-        public readonly string $company = 'Inter Invest Group',
+        public readonly string $company = 'Elvest',
         public readonly string $sideProject = 'https://orygami.fr',
         public readonly array $languages = ['PHP', 'TypeScript', 'Python', 'Go'],
         public readonly string $funFact = 'I debug with dump() and I am not ashamed',
