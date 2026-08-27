@@ -17,7 +17,7 @@
 final class FlorianLeGars
 {
     public function __construct(
-        public readonly string $role = 'Full-Stack Web Developer',
+        public readonly string $role = 'Backend engineer',
         public readonly string $location = 'Paris, France',
         public readonly string $company = 'Elvest',
         public readonly string $sideProject = 'https://orygami.fr',
