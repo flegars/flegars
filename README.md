@@ -38,6 +38,14 @@ $ ./currently-working-on.sh
 ---
 
 ```console
+$ ls ~/side-projects
+```
+
+- 🍺 **[Heure Apéro](https://heureapero.fr)**, because as a true beer lover, I needed scientific proof that it's always apéro time somewhere
+
+---
+
+```console
 $ cat tech-stack.md
 ```
 
