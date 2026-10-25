@@ -20,7 +20,7 @@ final class FlorianLeGars
         public readonly string $role = 'Backend engineer',
         public readonly string $location = 'Paris, France',
         public readonly string $company = 'Elvest',
-        public readonly string $sideProject = 'https://orygami.fr',
+        public readonly string $project = 'https://orygami.fr',
         public readonly array $languages = ['PHP', 'TypeScript', 'Python', 'Go'],
         public readonly string $funFact = 'I debug with dump() and I am not ashamed',
     ) {}
