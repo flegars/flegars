@@ -42,6 +42,7 @@ $ ls ~/side-projects
 ```
 
 - 🍺 **[Heure Apéro](https://heureapero.fr)**, because as a true beer lover, I needed scientific proof that it's always apéro time somewhere
+- 🃏 **[MTG Deckbuilder](https://github.com/flegars/mtg-deckbuilder)** *(work in progress)*, a local-first desktop app to build Commander decks with an AI co-pilot, because my 99 deserve better than "this card is good"
 
 ---
 
